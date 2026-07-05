@@ -5,3 +5,4 @@ def greetBlack():
 print("hello everyone")
 greetWhite()
 greetBlack()
+###типо внес изменения
